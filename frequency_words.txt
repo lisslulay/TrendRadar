@@ -15,6 +15,7 @@ LLM
 !沙龙
 !白皮书下载
 !gai
+!JKAI
 
 ChatGPT
 GPT-4
